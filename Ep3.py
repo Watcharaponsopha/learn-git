@@ -1,0 +1,7 @@
+print(-1)
+print(0)
+print(1+8)
+print(3.58)
+print(True)
+print(False)
+print("watcharapon \t"+"toomtam")
