@@ -9,3 +9,4 @@ high/=100
 bmi=weight/(high**2)
 #output
 print("BMI =",bmi)
+print("BMI =",bmi)
